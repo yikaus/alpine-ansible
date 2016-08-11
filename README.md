@@ -1,4 +1,4 @@
-## Ansible alpine images (size 80Mb)
+## Ansible alpine images (size 80Mb,Compressed 25Mb)
 
 ## Usage
 Go to your ansible directory
